@@ -1,0 +1,15 @@
+opencv-python-headless
+tensorflow
+keras
+tf-keras
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+librosa
+scikit-learn
+streamlit
+deepface
+streamlit-webrtc
+av

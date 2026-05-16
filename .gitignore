@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit temporary/cache files
+temp_audio.wav
+temp_uploaded.wav
+temp_multi.wav
+.streamlit/
+
+# Trained model files (large binaries - regenerate with train scripts)
+models/*.pkl
+
+# Datasets (too large for GitHub - download separately)
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Logs
+*.log
