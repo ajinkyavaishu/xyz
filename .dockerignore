@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+datasets/
+.git/
+.idea/
+.vscode/
+temp_audio.wav
+temp_uploaded.wav
+temp_multi.wav

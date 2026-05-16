@@ -16,7 +16,7 @@ temp_multi.wav
 .streamlit/
 
 # Trained model files (large binaries - regenerate with train scripts)
-models/*.pkl
+# models/*.pkl
 
 # Datasets (too large for GitHub - download separately)
 datasets/
