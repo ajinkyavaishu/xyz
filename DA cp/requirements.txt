@@ -1,0 +1,14 @@
+opencv-python-headless
+tensorflow-cpu
+tf-keras
+numpy
+pandas
+nltk
+librosa
+scikit-learn
+streamlit
+deepface
+streamlit-webrtc
+av
+tornado
+soundfile
